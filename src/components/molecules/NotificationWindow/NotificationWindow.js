@@ -107,7 +107,7 @@ export function NotificationWindow(props) {
 						className={styles.buy}
 						onClick={addItem}
 						name={props.id}>
-						Dodaj do koszyka
+						<button>Dodaj do koszyka</button>
 					</div>
 				</div>
 			</Col>
