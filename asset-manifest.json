@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ForHome-Shop-Online/static/css/main.45811967.css",
-    "main.js": "/ForHome-Shop-Online/static/js/main.9a3f7d35.js",
+    "main.css": "/ForHome-Shop-Online/static/css/main.cb216597.css",
+    "main.js": "/ForHome-Shop-Online/static/js/main.cf78824a.js",
     "static/js/787.a200e703.chunk.js": "/ForHome-Shop-Online/static/js/787.a200e703.chunk.js",
     "static/media/mug.jpg": "/ForHome-Shop-Online/static/media/mug.8d7e9cc5745f44c1c0b7.jpg",
     "static/media/pillow5.jpg": "/ForHome-Shop-Online/static/media/pillow5.ec37eafceafac073be35.jpg",
@@ -19,12 +19,12 @@
     "static/media/mug4.jpg": "/ForHome-Shop-Online/static/media/mug4.151036b8046732ed98e9.jpg",
     "static/media/candle2.jpg": "/ForHome-Shop-Online/static/media/candle2.6b09b1674a316ec72e41.jpg",
     "index.html": "/ForHome-Shop-Online/index.html",
-    "main.45811967.css.map": "/ForHome-Shop-Online/static/css/main.45811967.css.map",
-    "main.9a3f7d35.js.map": "/ForHome-Shop-Online/static/js/main.9a3f7d35.js.map",
+    "main.cb216597.css.map": "/ForHome-Shop-Online/static/css/main.cb216597.css.map",
+    "main.cf78824a.js.map": "/ForHome-Shop-Online/static/js/main.cf78824a.js.map",
     "787.a200e703.chunk.js.map": "/ForHome-Shop-Online/static/js/787.a200e703.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.45811967.css",
-    "static/js/main.9a3f7d35.js"
+    "static/css/main.cb216597.css",
+    "static/js/main.cf78824a.js"
   ]
 }
